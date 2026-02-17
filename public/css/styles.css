@@ -1,0 +1,14 @@
+body {
+  font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  border: none;
+  border-radius: 16px;
+}
+
+.stat-card {
+  border-radius: 14px;
+}
